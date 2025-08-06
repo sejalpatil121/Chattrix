@@ -76,11 +76,11 @@ Follow these steps to get the project up and running on your local machine:
 ### Authenticaton
 
 ### Login
-<img width="1439" alt="Screenshot 2024-06-28 at 05 33 05" src="https://github.com/pradyumna9195/NEAR-Chat-Web-App/assets/143891476/1b25169d-a8eb-40c6-9b35-9b49228ce764">
+<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/c0b6b33c-2220-4b77-a279-3efdf3cda58b" >
 
 
 ### SignUp
-<img width="1439" alt="Screenshot 2024-06-28 at 05 33 20" src="https://github.com/pradyumna9195/NEAR-Chat-Web-App/assets/143891476/64f2bdc7-954d-4481-8f8d-73cd215bc585">
+<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/89175e4a-5092-4378-aee8-30e5c073f59e">
 
 
 ### UI
