@@ -84,8 +84,7 @@ Follow these steps to get the project up and running on your local machine:
 
 
 ### UI
-<img width="1440" alt="Screenshot 2024-06-28 at 05 34 02" src="D:\Web-chatting-application-main\frontend1\public\images\chat1.PNG">
-
+![App Screenshot](images/chat3.png)
 
 ### User Profile
 <img width="1440" alt="Screenshot 2024-06-28 at 05 43 59" src="https://github.com/pradyumna9195/NEAR-Chat-Web-App/assets/143891476/803f07b8-f1e0-4701-9819-b84a693a8ad6">
