@@ -88,31 +88,35 @@ Follow these steps to get the project up and running on your local machine:
 
 
 ### User Profile
-<img width="1440" alt="Screenshot 2024-06-28 at 05 43 59" src="https://github.com/pradyumna9195/NEAR-Chat-Web-App/assets/143891476/803f07b8-f1e0-4701-9819-b84a693a8ad6">
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/56d5ba41-7e38-4561-abb0-41f7a0943b59" >
 
 
 ### Search Users
-<img width="1440" alt="Screenshot 2024-06-28 at 05 42 38" src="https://github.com/pradyumna9195/NEAR-Chat-Web-App/assets/143891476/f16217cc-5301-44fa-a642-9e56fe68e12f">
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/a22f3c13-f682-49c3-bfa5-11a8af0c4ad2">
 
 
 ### One to One chat
-<img width="1439" alt="Screenshot 2024-06-28 at 05 36 33" src="https://github.com/pradyumna9195/NEAR-Chat-Web-App/assets/143891476/048c1444-a680-424e-b490-5a4c640c4053">
+<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/dc56a280-1079-4cd7-a1dc-8000abc2e01d" >
 
 
 ### Real Time Chatting with Typing indicators
-<img width="1439" alt="Screenshot 2024-06-28 at 05 52 25" src="https://github.com/pradyumna9195/NEAR-Chat-Web-App/assets/143891476/d5bd9f03-2689-40f4-ade6-ecc27779c051">
+<img width="1439" alt="Image" src="https://github.com/user-attachments/assets/79f084e5-c65f-401d-8566-722250af085c" >
 
 
 ### Create Group Chats
-<img width="1440" alt="Screenshot 2024-06-28 at 05 40 33" src="https://github.com/pradyumna9195/NEAR-Chat-Web-App/assets/143891476/a1e0f123-4cfd-451b-9abc-b27856d9652a">
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/888b8c13-4289-456c-a5fb-5471e382ce25" >
+
+
+### Group Chating
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/2371a24f-97ae-4d39-9712-26e13a814171" />
 
 
 ### Add or Remove users from group
-<img width="1440" alt="Screenshot 2024-06-28 at 05 40 58" src="https://github.com/pradyumna9195/NEAR-Chat-Web-App/assets/143891476/c5e20b9d-1607-4c2c-bc3c-20f6203f2be5">
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/984b06f6-93c6-4bcd-a9ad-5f124ea26ee4">
 
 
 ### View Other users Profile
-<img width="1440" alt="Screenshot 2024-06-28 at 05 48 44" src="https://github.com/pradyumna9195/NEAR-Chat-Web-App/assets/143891476/62642aba-08a8-4fdc-bc95-6bf308dc6004">
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/db021815-9011-43ec-b9d8-dc447b84d931">
 
 
 
