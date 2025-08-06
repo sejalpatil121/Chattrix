@@ -84,7 +84,7 @@ Follow these steps to get the project up and running on your local machine:
 
 
 ### UI
-![UI Screenshot](images/chat3.png)
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/025d0118-8c5e-43c8-9999-01c5cb30cdd0">
 
 
 ### User Profile
